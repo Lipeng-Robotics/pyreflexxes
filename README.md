@@ -8,4 +8,4 @@ be built and installed with e.g.
 This library depends on (note: use conda to install pybind11!)
 - python-dev
 - pybind11
-- libReflexxesTypeII (see [RMLTypeII](https://github.com/kschwan/RMLTypeII)) or libReflexxesTypeIV
+- libReflexxesTypeII (see [RMLTypeII](https://github.com/Lipeng-Robotics/RMLTypeII)) or libReflexxesTypeIV
