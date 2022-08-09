@@ -5,7 +5,7 @@ be built and installed with e.g.
 
     pip install --user .
 
-This library depends on (note: use conda to install pybind11!)
+This library depends on (note: use conda to install pybind11! --lipeng chen)
 - python-dev
 - pybind11
 - libReflexxesTypeII (see [RMLTypeII](https://github.com/Lipeng-Robotics/RMLTypeII)) or libReflexxesTypeIV
